@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ArrowLeft, ExternalLink } from "lucide-react";
 
-const APP_URL = "http://127.0.0.1:5173";
+const APP_URL = "https://axicom-eight.vercel.app/";
 const NETWORK_NAME = "Ethereum Sepolia";
 const CHAIN_ID = "11155111";
 const CHAIN_HEX = "0xaa36a7";
